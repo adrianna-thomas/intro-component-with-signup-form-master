@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [Github Page](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-HkJUWINHq)
+- Live Site URL: [Github Page](https://adrianna-thomas.github.io/intro-component-with-signup-form-master/)
 
 ## My process
 
