@@ -80,7 +80,7 @@ Refine using Javascript to display error classes.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adrianna-thomas)
+- Frontend Mentor - [@adrianna-thomas](https://www.frontendmentor.io/profile/adrianna-thomas)
 
 ## Acknowledgments
 
